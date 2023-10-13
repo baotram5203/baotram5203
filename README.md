@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:tramnguyenbao5203@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/> 
   </a>
 </p>
 
@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img  src="https://img.icons8.com/icon/20909/html-5"/>
   <img src="https://img.icons8.com/icon/21278/css3"/>
+  <img src="https://icons8.com/icon/48/000000/figma">
 </p>
 
 ## Activities:
